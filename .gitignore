@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+sound
+
+# Miscellaneous
+*.log
+*.sqlite3
+
+# Google API credentials
+credentials.json
+token.pickle
+
+# Notes files
+*-note.txt
+
+# OS files
+.DS_Store
+Thumbs.db
